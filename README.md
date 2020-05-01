@@ -16,7 +16,7 @@ This is an [sos-notebook](https://vatlab.github.io/sos-docs/) which can run diff
 
 Other dependencies:
 
-- [MATLAB library MoCap Toolbox](https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mocaptoolbox)  
+- [MATLAB library: MoCap Toolbox](https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mocaptoolbox)  
 - [Tensorflow >= 2.0](https://www.tensorflow.org/)
 - [Keras Mixture Density Network Layer](https://github.com/cpmpercussion/keras-mdn-layer#keras-mixture-density-network-layer)
 ---
