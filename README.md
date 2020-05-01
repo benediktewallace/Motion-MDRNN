@@ -1,7 +1,9 @@
 # Motion-MDRNN
 *Please use [nbviewer](https://nbviewer.jupyter.org/) to view the notebook*  
 
-The notebook `sampling-from-MDRNN.ipynb` 
+
+In the notebook `sampling-from-MDRNN.ipynb` you can view video examples generated using a Mixture Density Recurrent Neural Network trained on a dataset of improvised dance motion capture data from which it is possible to generate novel movement sequences.  
+By utilising several different sampling strategies we examine the variations that emerge and explore the effect these strategies have on the generated motion.
 
 ## Viewing the notebook
 Use [Jupyter Notebook Viewer](https://github.com/jupyter/nbviewer/) to view the notebook with video exampes.
