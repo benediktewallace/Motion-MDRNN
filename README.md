@@ -1,7 +1,7 @@
 # Motion-MDRNN
+Please use [nbviewer](https://nbviewer.jupyter.org/) to view the notebook 
 
 
-----
 ## Viewing the notebook
 Use [Jupyter Notebook Viewer](https://github.com/jupyter/nbviewer/) to view the notebook with video exampes.
 
