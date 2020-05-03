@@ -1,5 +1,5 @@
 # Motion-MDRNN
-*Please view the notebook [here!](https://nbviewer.jupyter.org/github/benediktewallace/Motion-MDRNN-sos/blob/master/SOSpredict_and_generate.ipynb)*  
+*Please view the notebook [here!](https://nbviewer.jupyter.org/github/benediktewallace/Motion-MDRNN/blob/master/sampling-from-MDRNN.ipynb)*  
 
 
 In the notebook `sampling-from-MDRNN.ipynb` you can view video examples generated using a Mixture Density Recurrent Neural Network trained on a dataset of improvised dance motion capture data from which it is possible to generate novel movement sequences.  
