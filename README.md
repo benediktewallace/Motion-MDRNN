@@ -12,6 +12,7 @@ Use [Jupyter Notebook Viewer](https://github.com/jupyter/nbviewer/) to view the 
 ## Running the notebook
 This is an [sos-notebook](https://vatlab.github.io/sos-docs/) which can run different kernels in different cells. Please see the [docs](https://vatlab.github.io/sos-docs/running.html#content) for installation guides. 
 The trained model can be downloaded [here](https://drive.google.com/file/d/1pet59C2frKOmKCBz6pWUuJrOYklbphc9/view?usp=sharing)
+
 ---
 
 Other dependencies:
